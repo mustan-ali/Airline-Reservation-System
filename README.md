@@ -1,22 +1,6 @@
-# Object-Oriented-Programming-Project
+# Airline-Reservation-System
 
 CSC1208 - Object Oriented Programming Techniques  
 CSCL1208 Lab - Object Oriented Programming Techniques  
 
-Airline Reservation System
-
-Features:  
-1# Menu Display  
-2# Add Customer  
-3# Remover Customer  
-4# Display Customer List  
-5# Add Reservation  
-6# Cancel Reservation  
-7# Display Reservations  
-8# Add Flight Description  
-9# Remove Flight Description  
-10# Display Flight Description  
-11# Schedule New Flight  
-12# Cancel Scheduled Flight  
-13# Display Scheduled Flight  
-14# Display Scheduled Flight Passengers  
+This project is about the Airline Reservation System. The program will allow the user to choose from the menu to perform any relevant task required by the user. Some of the main features are adding and removing the customers. The user can also add and cancel reservations accordingly. It also allows the user to view the list of customers and reservations. The Airline Reservation System provides an interface to schedule flights and reservations for an airline. It is responsible for managing customers, flight data, and flight scheduling.
